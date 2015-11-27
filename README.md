@@ -1,4 +1,6 @@
 # fifotest
->make
->./ledserv
->sh ./client
+$make
+
+$./ledserv
+
+$sh ./client
