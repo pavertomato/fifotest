@@ -192,7 +192,7 @@ std::string Led::textCommand(std::string command)
             break;
 
             default:
-                answer="FAILEDD";
+                answer="FAILED";
             break;
         }
     return answer;
